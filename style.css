@@ -57,11 +57,11 @@ i {
 }
 
 .card-white {
-	background: white;
-  	border-radius: 5px;
-  	box-shadow: rgba(0,0,0,0.1);
-  	padding: 30px; 
-  	margin: 20px;
+  background: white;
+  border-radius: 5px;
+  box-shadow: rgba(0,0,0,0.1);
+  padding: 30px; 
+  margin: 20px;
 }
 
 #img-circle {
